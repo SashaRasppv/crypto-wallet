@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "99962895704",
+    "project_id": "crpt-3a447",
+    "storage_bucket": "crpt-3a447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99962895704:android:d3d28c62c6ee79f09bb92d",
+        "android_client_info": {
+          "package_name": "com.example.crpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99962895704-gi9v4ejfrotkehv8i2cve2ra69i16c85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMkxZmeZPXZfelI8A-80mV2HxfNMyPAV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99962895704-gi9v4ejfrotkehv8i2cve2ra69i16c85.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "99962895704-682b76is35rofahbfaojrrs5s2t9prku.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.crpt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
