@@ -1,5 +1,4 @@
 import 'package:crpt/coin_data/coin_data.dart';
-import 'package:crpt/net/add_coin.dart';
 import 'package:crpt/provider/firebase_database/provider_firebase.dart';
 import 'package:crpt/ui/home_page.dart';
 import 'package:flutter/material.dart';
